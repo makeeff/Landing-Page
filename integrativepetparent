@@ -1,0 +1,133 @@
+<html><head><script src='https://cdn.tailwindcss.com/'></script></head><body><div class="bg-white">
+   <div class="px-4 py-16 mx-auto sm:max-w-7xl md:max-w-7xl lg:max-w-7xl md:px-24 lg:px-8 lg:py-20">
+	  <div class="grid gap-6 row-gap-10 lg:grid-cols-2" data-content="how-it-works">
+		<div class="lg:py-6 lg:pr-16">
+		  <h2 class="mb-8 font-bold text-black text-4xl primary_text editable">How it works</h2>
+			<div class="flex" data-subcontent="step_1">
+			<div class="flex flex-col items-center mr-4">
+			  <div>
+				<div class="flex items-center justify-center w-10 h-10 border rounded-full">
+				  <svg class="w-4 text-blue-600" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
+					<line fill="none" stroke-miterlimit="10" x1="12" y1="2" x2="12" y2="22"></line>
+					<polyline fill="none" stroke-miterlimit="10" points="19,15 12,22 5,15"></polyline>
+				  </svg>
+				</div>
+			  </div>
+			  <div class="w-px h-full bg-gray-300"></div>
+			</div>
+			<div class="pt-1 pb-8 w-full">
+			  <p class="mb-2 text-xl text-gray-900 font-bold primary_text editable" data-subcontent="step-title">Set up your pet's profile</p>
+			  <p class="text-base text-gray-600 secondary_text editable" data-subcontent="step-content">We'll need to know some basic information about your pet in order to provide them with the best possible nutrition.</p>
+			</div>
+		  </div>
+		  <div class="flex" data-subcontent="step_2">
+			<div class="flex flex-col items-center mr-4">
+			  <div>
+				<div class="flex items-center justify-center w-10 h-10 border rounded-full">
+				  <svg class="w-4 text-blue-600" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
+					<line fill="none" stroke-miterlimit="10" x1="12" y1="2" x2="12" y2="22"></line>
+					<polyline fill="none" stroke-miterlimit="10" points="19,15 12,22 5,15"></polyline>
+				  </svg>
+				</div>
+			  </div>
+			  <div class="w-px h-full bg-gray-300"></div>
+			</div>
+			<div class="pt-1 pb-8 w-full">
+			  <p class="mb-2 text-xl text-gray-900 font-bold primary_text editable" data-subcontent="step-title">Get matched with foods</p>
+			  <p class="text-base text-gray-600 secondary_text editable" data-subcontent="step-content">Based on your pet's preferences and dietary needs, we'll recommend a variety of food options for you to choose from.</p>
+			</div>
+		  </div>
+		  <div class="flex" data-subcontent="step_3">
+			<div class="flex flex-col items-center mr-4">
+			  <div>
+				<div class="flex items-center justify-center w-10 h-10 border rounded-full">
+				  <svg class="w-6 text-blue-600" stroke="currentColor" viewBox="0 0 24 24">
+					<polyline fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="6,12 10,16 18,8"></polyline>
+				  </svg>
+				</div>
+			  </div>
+
+			</div>
+			<div class="pt-1 pb-0 w-full">
+			  <p class="mb-2 text-xl text-gray-900 font-bold primary_text editable" data-subcontent="step-title">Feed your pet happy and healthy</p>
+			  <p class="text-base text-gray-600 secondary_text editable" data-subcontent="step-content">Our integrative approach to pet nutrition means that we'll work with you to make sure your pet is getting everything they need to thrive.</p>
+			</div>
+		  </div>
+		</div>
+		<div class="relative">
+		  <img class="inset-0 object-cover w-full rounded shadow-lg h-96 lg:absolute lg:h-full img-editable" src="https://images.pexels.com/photos/5255204/pexels-photo-5255204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="">
+		<p class="photo-credit absolute bottom-3 text-white text-xs right-4 tracking-tight secondary_text font-medium">Photo by <a href="https://unsplash.com/freestocks?utm_source=copymatic&utm_medium=referral" target="_blank" class="text-white underline">freestocks</a> on <a href="https://unsplash.com/?utm_source=copymatic&utm_medium=referral" target="_blank" class="text-white underline">Unsplash</a></p></div>
+	  </div>
+	</div>
+</div><div class="py-20 bg-white">
+    <div class="px-4 mx-auto text-center max-w-7xl sm:px-6 lg:px-8">
+        <h2 class="text-9xl font-extrabold tracking-normal text-gray-900 sm:text-4xl primary_text editable text-center" data-content="cta">Stop struggling to find pet food that they like.</h2>
+        <p class="max-w-md mx-auto mt-3 text-9xl text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl secondary_text editable font-extralight" data-content="website-subheadlines">Our Nutrition Pet Food is 100% Human Grade Ingredients & Organic Health Booster.</p>
+        <div class="flex justify-center mt-8 space-x-3">
+            <a href="https://olliepets.sjv.io/7mzaZr" class="inline-flex items-center justify-center px-5 py-3 text-base font-semibold text-white bg-red-500 rounded-full shadow hover:bg-red-600 btn-editable">SEND ME THE SECRET INFO NOW</a>
+            <a href="" class="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-blue-600 bg-white rounded-md hover:bg-white hover:text-blue-600 btn-editable"></a>
+        </div>
+    </div>
+</div><div class="flex items-center justify-center py-16 bg-white min-w-screen">
+    <div class="max-w-6xl px-12 mx-auto md:px-16 xl:px-10">
+        <div class="flex flex-col items-center lg:flex-row">
+            <div class="flex flex-col items-start justify-center w-full h-full pr-8 mb-10 lg:mb-0 lg:w-1/2">
+                <p class="mb-2 text-base font-medium text-blue-600 uppercase accent_text editable">Pet Industry, Pet Lover, Pet Healthy Lifestyle, Pet Food love Integrative Pet Parent</p>
+                <h2 class="text-4xl font-extrabold leading-10 tracking-tight text-gray-900 sm:text-5xl sm:leading-none md:text-6xl lg:text-5xl xl:text-6xl primary_text editable">Testimonials</h2>
+                <p class="my-6 text-lg text-gray-600 secondary_text editable">Don't just take our word for it, read from our extensive list of case studies and customer testimonials.</p>
+                <a href="https://www.myollie.com/reviews/" class="flex items-center justify-center px-8 py-3 text-base font-medium leading-6 text-white transition duration-150 ease-in-out bg-blue-600 border border-transparent rounded-md shadow hover:bg-blue-700 focus:outline-none btn-editable editable">POSITIVE REVIEWS</a>
+            </div>
+            <div class="w-full lg:w-1/2">
+                <blockquote class="flex items-center justify-between w-full col-span-1 p-6 bg-white rounded-lg shadow">
+                    <div class="flex flex-col pr-8">
+                        <div class="relative pl-12">
+                            <svg class="absolute left-0 w-10 h-10 text-blue-300 fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 125">
+                                <path d="M30.7 42c0 6.1 12.6 7 12.6 22 0 11-7.9 19.2-18.9 19.2C12.7 83.1 5 72.6 5 61.5c0-19.2 18-44.6 29.2-44.6 2.8 0 7.9 2 7.9 5.4S30.7 31.6 30.7 42zM82.4 42c0 6.1 12.6 7 12.6 22 0 11-7.9 19.2-18.9 19.2-11.8 0-19.5-10.5-19.5-21.6 0-19.2 18-44.6 29.2-44.6 2.8 0 7.9 2 7.9 5.4S82.4 31.6 82.4 42z"></path>
+                            </svg>
+                            <p class="mt-2 text-sm text-gray-600 sm:text-base lg:text-sm xl:text-base secondary_text editable" data-content="testimonials">"As a pet parent, I was looking for the best nutrition options for my fur baby and came across Integrative Pet Parent. They have been an absolute blessing! Their team understands that every pet has unique needs and takes the time to provide personalized recommendations tailored specifically to our pup's dietary requirements. Their products are top quality and I feel great knowing that I am providing my fur baby with nutritious meals."</p>
+                        </div>
+
+                        <h3 class="pl-12 mt-3 text-sm font-medium leading-5 text-gray-800 truncate sm:text-base lg:text-sm lg:text-base secondary_text">
+                            <span class="editable">Jane Cooper</span>
+                            <span class="mt-1 text-sm leading-5 text-gray-500 truncate secondary_text editable">- CEO SomeCompany</span>
+                        </h3>
+                    </div>
+                    <img class="is_avatar flex-shrink-0 w-20 h-20 bg-gray-300 rounded-full xl:w-24 xl:h-24 object-cover img-editable" src="https://images.unsplash.com/photo-1616044543928-6a00a0c995b8" alt="">
+                </blockquote>
+                <blockquote class="flex items-center justify-between w-full col-span-1 p-6 mt-4 bg-white rounded-lg shadow">
+                    <div class="flex flex-col pr-10">
+                        <div class="relative pl-12">
+                            <svg class="absolute left-0 w-10 h-10 text-blue-300 fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 125">
+                                <path d="M30.7 42c0 6.1 12.6 7 12.6 22 0 11-7.9 19.2-18.9 19.2C12.7 83.1 5 72.6 5 61.5c0-19.2 18-44.6 29.2-44.6 2.8 0 7.9 2 7.9 5.4S30.7 31.6 30.7 42zM82.4 42c0 6.1 12.6 7 12.6 22 0 11-7.9 19.2-18.9 19.2-11.8 0-19.5-10.5-19.5-21.6 0-19.2 18-44.6 29.2-44.6 2.8 0 7.9 2 7.9 5.4S82.4 31.6 82.4 42z"></path>
+                            </svg>
+                            <p class="mt-2 text-sm text-gray-600 sm:text-base lg:text-sm xl:text-base secondary_text editable" data-content="testimonials">"I have been using Integrative Pet Parent to feed my pets for over a year now and I couldn't be happier. My pets love the food, it's nutritious and easy to prepare. As a pet parent, I feel very confident that I'm giving my fur babies the best nutrition possible."</p>
+                        </div>
+                        <h3 class="pl-12 mt-3 text-sm font-medium leading-5 text-gray-800 truncate sm:text-base lg:text-sm lg:text-base secondary_text">
+                            <span class="editable">John Doe</span>
+                            <span class="mt-1 text-sm leading-5 text-gray-500 truncate secondary_text editable">- CEO SomeCompany</span>
+                        </h3>
+                        <p class="mt-1 text-sm leading-5 text-gray-500 truncate"></p>
+                    </div>
+                    <img class="is_avatar flex-shrink-0 w-24 h-24 bg-gray-300 rounded-full object-cover img-editable" src="https://images.unsplash.com/photo-1616044543567-a31e09b178ee" alt="">
+                </blockquote>
+                <blockquote class="flex items-center justify-between w-full col-span-1 p-6 mt-4 bg-white rounded-lg shadow">
+                    <div class="flex flex-col pr-10">
+                        <div class="relative pl-12">
+                            <svg class="absolute left-0 w-10 h-10 text-blue-300 fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 125">
+                                <path d="M30.7 42c0 6.1 12.6 7 12.6 22 0 11-7.9 19.2-18.9 19.2C12.7 83.1 5 72.6 5 61.5c0-19.2 18-44.6 29.2-44.6 2.8 0 7.9 2 7.9 5.4S30.7 31.6 30.7 42zM82.4 42c0 6.1 12.6 7 12.6 22 0 11-7.9 19.2-18.9 19.2-11.8 0-19.5-10.5-19.5-21.6 0-19.2 18-44.6 29.2-44.6 2.8 0 7.9 2 7.9 5.4S82.4 31.6 82.4 42z"></path>
+                            </svg>
+                            <p class="mt-2 text-sm text-gray-600 sm:text-base lg:text-sm xl:text-base secondary_text editable" data-content="testimonials">"Integrative Pet Parent has been a life saver for my pet. Their nutrition plan was tailored to meet my pet's needs and the food they provide is healthy, high quality, and delicious. I can definitely tell that my pet enjoys eating their food and looks healthier since switching over."</p>
+                        </div>
+
+                        <h3 class="pl-12 mt-3 text-sm font-medium leading-5 text-gray-800 truncate sm:text-base lg:text-sm lg:text-base secondary_text">
+                            <span class="editable">John Smith</span>
+                            <span class="mt-1 text-sm leading-5 text-gray-500 truncate secondary_text editable">- CEO SomeCompany</span>
+                        </h3>
+                        <p class="mt-1 text-sm leading-5 text-gray-500 truncate"></p>
+                    </div>
+                    <img class="is_avatar flex-shrink-0 w-24 h-24 bg-gray-300 rounded-full object-cover img-editable" src="https://images.unsplash.com/photo-1652114439641-948648e0624a" alt="">
+                </blockquote>
+            </div>
+        </div>
+    </div>
+</div></body></html>
